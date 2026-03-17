@@ -2,20 +2,21 @@
   "name": "Pesa — Finance Tracker",
   "short_name": "Pesa",
   "description": "Personal finance tracker for Kenya",
-  "start_url": "/",
+  "start_url": "/pesa/",
+  "scope": "/pesa/",
   "display": "standalone",
   "background_color": "#080a0f",
   "theme_color": "#080a0f",
   "orientation": "portrait",
   "icons": [
     {
-      "src": "icon-192.png",
+      "src": "/pesa/icon-192.png",
       "sizes": "192x192",
       "type": "image/png",
       "purpose": "any maskable"
     },
     {
-      "src": "icon-512.png",
+      "src": "/pesa/icon-512.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "any maskable"
